@@ -1,0 +1,9 @@
+As seen on Reddit, on a VT220 terminal!
+Tested on Debian 8, GCC 4.9.2
+
+$ gcc -ansi -Wpedantic pkmn.c -o pkmn -lm
+
+What the code currently does:
+https://bulbapedia.bulbagarden.net/wiki/Hidden_Power_(move)/Calculation#Generation_II
+https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon#Generation_II
+
